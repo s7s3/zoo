@@ -1,5 +1,3 @@
-#from Animal import Lion
-#from Animal import Tiger
 class Animal:
     def __init__(self, name, health_level, happiness_level) -> None:
         self.name = name
